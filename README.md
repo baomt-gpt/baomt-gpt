@@ -17,7 +17,7 @@
 
 ## 🛠️ Skills
 
-* 💻 Programming: C++
+* 💻 Programming: C, C++
 * 📊 Basic Data Structures & Algorithms
 * 🔧 Tools: Git, GitHub
 

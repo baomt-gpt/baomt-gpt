@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mai Thế Bảo
 
-<!--
-**baomt-gpt/baomt-gpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year IT student at PTIT (Vietnam – Japan Program)
+💻 Passionate about C++ & Competitive Programming
+🇻🇳 Based in Vietnam
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Currently studying Information Technology at PTIT (Vietnam – Japan program)
+* 🌱 Learning: **C++, Data Structures & Algorithms**
+* 📚 Also improving: **IELTS & Japanese (JLPT)**
+* 🎯 Goal: Become a strong Software Engineer
+
+---
+
+## 🛠️ Skills
+
+* 💻 Programming: C++
+* 📊 Basic Data Structures & Algorithms
+* 🔧 Tools: Git, GitHub
+
+---
+
+## 📫 Contact
+
+* Facebook: https://www.facebook.com/mai.the.bao.483696/
+* Email: maithebao19022007@gmail.com

@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Mai Thế Bảo
 
 - First-year IT student at PTIT (Vietnam – Japan Program)
-- Passionate about C++ & Competitive Programming
-🇻🇳 Based in Vietnam
 
 ## 📫 Contact
 

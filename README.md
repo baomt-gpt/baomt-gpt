@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mai Thế Bảo
 
-- First-year IT student at PTIT (Vietnam – Japan Program)
+- Language: Japanese, English
 
 ## 📫 Contact
 
